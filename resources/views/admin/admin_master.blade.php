@@ -19,7 +19,7 @@
   
 
     <!-- Main content -->
-     @yield('admin');
+     @yield('admin')
     <!-- /.content -->
     </div>
  
